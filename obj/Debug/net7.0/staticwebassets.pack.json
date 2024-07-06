@@ -1,0 +1,1281 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Dummy_Login_System.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Dummy_Login_System.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\css\\mixins\\_text-hide.css",
+      "PackagePath": "staticwebassets\\css\\css\\mixins\\_text-hide.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\icomoon\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\icomoon\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\icomoon\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\icomoon\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\icomoon\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\css\\_ionicons.scss",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\_ionicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\css\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\css\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\ionicons\\fonts\\ionicons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\ionicons\\fonts\\ionicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\open-iconic\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\open-iconic\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\open-iconic\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\open-iconic\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\fonts\\open-iconic\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\fonts\\open-iconic\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\bg_3.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\bg_4.jpg",
+      "PackagePath": "staticwebassets\\images\\bg_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\burger-1.jpg",
+      "PackagePath": "staticwebassets\\images\\burger-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\burger-2.jpg",
+      "PackagePath": "staticwebassets\\images\\burger-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\burger-3.jpg",
+      "PackagePath": "staticwebassets\\images\\burger-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dessert-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dessert-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dessert-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dessert-4.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dessert-5.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dessert-6.jpg",
+      "PackagePath": "staticwebassets\\images\\dessert-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-1.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-11.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-2.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-3.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-4.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-5.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-6.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-7.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\dish-8.jpg",
+      "PackagePath": "staticwebassets\\images\\dish-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-1.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-2.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-3.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-4.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-5.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-6.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-7.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-8.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\drink-9.jpg",
+      "PackagePath": "staticwebassets\\images\\drink-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\image_1.jpg",
+      "PackagePath": "staticwebassets\\images\\image_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\image_2.jpg",
+      "PackagePath": "staticwebassets\\images\\image_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\image_3.jpg",
+      "PackagePath": "staticwebassets\\images\\image_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\image_4.jpg",
+      "PackagePath": "staticwebassets\\images\\image_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\image_5.jpg",
+      "PackagePath": "staticwebassets\\images\\image_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\image_6.jpg",
+      "PackagePath": "staticwebassets\\images\\image_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\loc.png",
+      "PackagePath": "staticwebassets\\images\\loc.png"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\menu-1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\menu-2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\menu-3.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\menu-4.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\google-map.js",
+      "PackagePath": "staticwebassets\\js\\google-map.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.animateNumber.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.animateNumber.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.timepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\jquery.waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\range.js",
+      "PackagePath": "staticwebassets\\js\\range.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\js\\scrollax.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\asp\\Desktop\\Asp.Net Core MVC\\Dummy_Login_System\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Dummy_Login_System.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Dummy_Login_System.props",
+      "PackagePath": "build\\Dummy_Login_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Dummy_Login_System.props",
+      "PackagePath": "buildMultiTargeting\\Dummy_Login_System.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Dummy_Login_System.props",
+      "PackagePath": "buildTransitive\\Dummy_Login_System.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
